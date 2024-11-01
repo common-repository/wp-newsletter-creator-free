@@ -1,0 +1,19 @@
+table {
+	background-color:none;
+}
+
+.textareaPreview {
+	background:url(../../images/lines.png) 5px 5px;
+	background-attachment:scroll;
+	line-height:18px;
+	font-size:12px;
+}
+
+.form-table {
+	margin-top:20px;
+	
+	
+	
+	}
+	
+	

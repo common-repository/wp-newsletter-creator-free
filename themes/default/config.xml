@@ -1,0 +1,11 @@
+		<info>
+				<name>Default</name>
+				<author>INMEDIA Design</author>
+				<date>22.8.2015</date>
+				<responsive>No</responsive>
+				<file>default.php</file>
+				<positions>4</positions>
+				<screenshot>default_screenshot.jpg</screenshot>
+				<woocommerce>no</woocommerce>
+
+		</info>

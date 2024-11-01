@@ -1,0 +1,11 @@
+		<info>
+				<name>Sale Responsive</name>
+				<author>INMEDIA Design</author>
+				<date>22.8.2015</date>
+				<responsive>Yes</responsive>
+				<file>default.php</file>
+				<positions>3</positions>
+				<screenshot>screenshot_sale_resp.jpg</screenshot>
+				<woocommerce>yes</woocommerce>
+			<woocommerce_positions>2</woocommerce_positions>	
+		</info>
